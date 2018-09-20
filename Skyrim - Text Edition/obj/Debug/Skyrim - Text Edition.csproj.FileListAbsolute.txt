@@ -1,0 +1,14 @@
+C:\Users\NZXT\Desktop\C# Projects\Skyrim - Text Edition\Skyrim - Text Edition\bin\Debug\Skyrim - Text Edition.exe.config
+C:\Users\NZXT\Desktop\C# Projects\Skyrim - Text Edition\Skyrim - Text Edition\bin\Debug\Skyrim - Text Edition.exe
+C:\Users\NZXT\Desktop\C# Projects\Skyrim - Text Edition\Skyrim - Text Edition\bin\Debug\Skyrim - Text Edition.pdb
+C:\Users\NZXT\Desktop\C# Projects\Skyrim - Text Edition\Skyrim - Text Edition\obj\Debug\Skyrim - Text Edition.csprojResolveAssemblyReference.cache
+C:\Users\NZXT\Desktop\C# Projects\Skyrim - Text Edition\Skyrim - Text Edition\obj\Debug\Skyrim - Text Edition.csproj.CoreCompileInputs.cache
+C:\Users\NZXT\Desktop\C# Projects\Skyrim - Text Edition\Skyrim - Text Edition\obj\Debug\Skyrim - Text Edition.exe
+C:\Users\NZXT\Desktop\C# Projects\Skyrim - Text Edition\Skyrim - Text Edition\obj\Debug\Skyrim - Text Edition.pdb
+C:\Users\sonny.gollen\Documents\C# Projects\Skyrim - Text Edition\Skyrim - Text Edition\bin\Debug\Skyrim - Text Edition.exe.config
+C:\Users\sonny.gollen\Documents\C# Projects\Skyrim - Text Edition\Skyrim - Text Edition\bin\Debug\Skyrim - Text Edition.exe
+C:\Users\sonny.gollen\Documents\C# Projects\Skyrim - Text Edition\Skyrim - Text Edition\bin\Debug\Skyrim - Text Edition.pdb
+C:\Users\sonny.gollen\Documents\C# Projects\Skyrim - Text Edition\Skyrim - Text Edition\obj\Debug\Skyrim - Text Edition.csproj.CoreCompileInputs.cache
+C:\Users\sonny.gollen\Documents\C# Projects\Skyrim - Text Edition\Skyrim - Text Edition\obj\Debug\Skyrim - Text Edition.exe
+C:\Users\sonny.gollen\Documents\C# Projects\Skyrim - Text Edition\Skyrim - Text Edition\obj\Debug\Skyrim - Text Edition.pdb
+C:\Users\sonny.gollen\Documents\C# Projects\Skyrim - Text Edition\Skyrim - Text Edition\obj\Debug\Skyrim - Text Edition.csprojAssemblyReference.cache
