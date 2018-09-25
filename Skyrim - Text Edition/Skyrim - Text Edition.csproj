@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="BaseClass.cs" />
     <Compile Include="Introduction.cs" />
+    <Compile Include="Items\MagicSpells\MagicSpells.cs" />
     <Compile Include="Items\Weapons\Weapons.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -53,7 +54,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Items\MagicSpells\" />
     <Folder Include="Story\Cities\Skyrim\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
